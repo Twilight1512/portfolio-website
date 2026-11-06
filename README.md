@@ -1,12 +1,12 @@
-# Portfolio — Your Name
+# Portfolio — Mahbubul Alam Tuhin
 
 A responsive, single-page portfolio starter built with plain HTML, CSS, and JavaScript. No build step or dependencies required.
 
 ## Make it yours
 
-1. In `index.html`, replace **Your Name**, `[your role]`, `[your disciplines]`, and `[CITY, COUNTRY]` with your details.
+1. Your name is already set. In `index.html`, replace `[your role]`, `[your disciplines]`, and `[CITY, COUNTRY]` with your details.
 2. Replace the three sample project cards with real work. Keep each project focused on the problem, your contribution, and the outcome; update its year and skill tags too.
-3. Change `hello@example.com` and the LinkedIn/GitHub links in the contact and footer sections.
+3. Change `hello@example.com` and the LinkedIn link in the contact and footer sections. The GitHub link already points to `Twilight1512`.
 4. Adjust colors, typography, and layout in `styles.css`. The main theme colors are CSS variables at the top of the file.
 5. Update the page title and description in the `<head>` for search and sharing.
 
